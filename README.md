@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Bendall</h1>
 <h3 align="center">A Computer Science Student From The UK passionate about Web Development and Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rb200468" alt="rb200468" /></a> </p>
-
 - 🔭 I’m currently working on **DailyWebGameClone**
 
 - 🌱 I’m currently learning **React, DJango and HTMX**
