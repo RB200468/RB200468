@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Bendall</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Computer Science Student From The UK passionate about Web Development and Machine Learning</h3>
 
 - 🔭 I’m currently working on **DailyWebGameClone**
