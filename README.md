@@ -3,11 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on **DailyWebGameClone**
+- 🔭 I’m currently working on **studyTool**
 
-- 🌱 I’m currently learning **React, DJango and HTMX**
-
-- 🤝 I’m looking for help with **Finding an Internship**
+- 🌱 I’m currently learning **React, MongoDB, Express**
 
 - 📫 How to reach me **Ryan.bendall@outlook.com**
 
