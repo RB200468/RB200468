@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Bendall</h1>
-<h3 align="center">A 1st Class Honours Computer Science Graduate From The UK </h3>
-
-- 🔭 Currently working on **Solohub**
-
-- 🤝 Seeking graduate roles in **Software Engineering**
+<h3 align="center">A Graduate Software Developer from the UK </h3>
 
 - 📫 Reach me: **Ryan.bendall@outlook.com**
 
